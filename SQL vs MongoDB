@@ -1,0 +1,7 @@
+1) MongoDB is a document database and can be installed locally or hosted in the cloud.
+
+SQL vs Document Databases
+1)SQL databases are considered relational databases. They store related data in separate tables. When data is needed, it is queried from multiple tables to join the data back together.
+2)MongoDB stores data in flexible documents. Instead of having multiple tables you can simply keep all of your related data together. This makes reading your data very fast.
+3)In MongoDB, instead of tables these are called collections.
+
