@@ -1,0 +1,16 @@
+Learn MongoDB
+1)MongoDB is a document database. It stores data in a type of JSON format called BSON=Binary JSON.
+2)A record in MongoDB is a document, which is a data structure composed of key value pairs similar to the structure of JSON objects.
+
+A MongoDB Document
+Records in a MongoDB database are called documents, and the field values may include numbers, strings, booleans, arrays, or even nested documents.
+
+Example
+{
+	Name: "Mageshwar.S",
+	Age: "20",
+	Gender: "Male",
+	City: "Chennai",
+	place: "Tiruvallur"
+	date: Date()
+}
